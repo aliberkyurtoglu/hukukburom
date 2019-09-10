@@ -1,0 +1,2 @@
+DirectoryIndex giris.php
+ErrorDocument 404 http://localhost/hukukburom/404.php
